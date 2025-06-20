@@ -53,3 +53,4 @@ Bar Charts, Pie Charts, Cards, and Slicers
 Data Modeling
 
 📷 Dashboard Snapshot
+https://github.com/thakurmegha05/E-COMMERCE-DASHBOARD/blob/main/madhav%20e-commerce%20sales%20dashboard.png
